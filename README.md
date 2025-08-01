@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFocndsZTUwNDJrOXUzdWV3cWZ1cDRvaTNuNW92dG84b3EyY3Q4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" alt="Minimalist header animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFocndsZTUwNDJrOXUzdWV3cWZ1cDRvaTNuNW92dG84b3EyY3Q4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" alt="Minimalist header animation" />
 </p>
 
 ### Hi, I'm Gabi 👋
