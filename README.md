@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hp3dmE6SXC0ac/giphy.gif" width="200" alt="typing gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=coding...;learning...;building+something+cool" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Gabi 👋</h1>
