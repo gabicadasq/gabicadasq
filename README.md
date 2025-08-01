@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="600" alt="Minimalist header animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFocndsZTUwNDJrOXUzdWV3cWZ1cDRvaTNuNW92dG84b3EyY3Q4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" alt="Minimalist header animation" />
 </p>
 
 ### Hi, I'm Gabi 👋
@@ -11,7 +11,7 @@ Junior Developer & Data Enthusiast
 ### 🧠 About Me
 
 - 🎓 IT Intern passionate about clean code and simple automation  
-- 🐍 Learning Python, SQL, and back-end  
+- 🐍 Learning Python, SQL, and a bit of front-end  
 - 📚 Curious mind, always improving  
 
 ---
