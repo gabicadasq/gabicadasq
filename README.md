@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=coding...;learning...;building+something+cool" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi, I'm Gabi 👋</h1>
+# Hi, I'm Gabi 👋
 
-<p align="center">Junior Developer & Data Enthusiast</p>
+Junior Developer & Data Enthusiast
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
@@ -31,15 +31,9 @@
 
 ### 📫 Reach Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/gabcadasqueves1" target="_blank">LinkedIn</a> • 
-  <a href="mailto:gabriellecadasqueves@hotmail.com">Email</a>
-</p>
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" /> LinkedIn](https://linkedin.com/in/gabcadasqueves1)  
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20" /> Email](mailto:gabriellecadasqueves@hotmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" alt="terminal gif" />
-</p>
-
-<p align="center">Thanks for visiting — feel free to explore my projects :)</p>
+Thanks for visiting — feel free to explore my projects :)
