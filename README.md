@@ -31,8 +31,8 @@ Junior Developer & Data Enthusiast
 
 ### 📫 Reach Me
 
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" /> LinkedIn](https://linkedin.com/in/gabcadasqueves1)  
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20" /> Email](mailto:gabriellecadasqueves@hotmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />](https://linkedin.com/in/gabcadasqueves1)  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" height="30" alt="Email" />](mailto:gabriellecadasqueves@hotmail.com)
 
 ---
 
