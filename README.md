@@ -1,5 +1,5 @@
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&height=50&lines=coding...;learning...;building+something+cool" alt="Typing SVG" />
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="600" alt="Minimalist header animation" />
 </p>
 
 ### Hi, I'm Gabi 👋
@@ -11,7 +11,7 @@ Junior Developer & Data Enthusiast
 ### 🧠 About Me
 
 - 🎓 IT Intern passionate about clean code and simple automation  
-- 🐍 Learning Python, SQL, and a bit of front-end  
+- 🐍 Learning Python, SQL, and back-end  
 - 📚 Curious mind, always improving  
 
 ---
